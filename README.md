@@ -128,6 +128,3 @@ ros2 launch overhead_slam_simulation dsm_world.launch.py
 ros2 run overhead_slam_simulation auto_map.py
 
 ```
-
-
-5. Switch back to your working branch: `git checkout feature/slam-auto-mapping`.
